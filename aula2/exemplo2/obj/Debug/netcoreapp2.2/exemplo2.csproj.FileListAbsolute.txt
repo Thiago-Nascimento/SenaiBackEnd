@@ -1,0 +1,11 @@
+C:\Users\FIC\Desktop\SenaiBackEnd\aula2\exemplo2\bin\Debug\netcoreapp2.2\exemplo2.deps.json
+C:\Users\FIC\Desktop\SenaiBackEnd\aula2\exemplo2\bin\Debug\netcoreapp2.2\exemplo2.runtimeconfig.json
+C:\Users\FIC\Desktop\SenaiBackEnd\aula2\exemplo2\bin\Debug\netcoreapp2.2\exemplo2.runtimeconfig.dev.json
+C:\Users\FIC\Desktop\SenaiBackEnd\aula2\exemplo2\bin\Debug\netcoreapp2.2\exemplo2.dll
+C:\Users\FIC\Desktop\SenaiBackEnd\aula2\exemplo2\bin\Debug\netcoreapp2.2\exemplo2.pdb
+C:\Users\FIC\Desktop\SenaiBackEnd\aula2\exemplo2\obj\Debug\netcoreapp2.2\exemplo2.csprojAssemblyReference.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\aula2\exemplo2\obj\Debug\netcoreapp2.2\exemplo2.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\aula2\exemplo2\obj\Debug\netcoreapp2.2\exemplo2.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\aula2\exemplo2\obj\Debug\netcoreapp2.2\exemplo2.AssemblyInfo.cs
+C:\Users\FIC\Desktop\SenaiBackEnd\aula2\exemplo2\obj\Debug\netcoreapp2.2\exemplo2.dll
+C:\Users\FIC\Desktop\SenaiBackEnd\aula2\exemplo2\obj\Debug\netcoreapp2.2\exemplo2.pdb
