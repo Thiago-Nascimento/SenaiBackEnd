@@ -4,6 +4,7 @@ namespace exemplo2 {
     class Program {
         static void Main (string[] args) {
             double n1, n2, n3, media;
+            string resultado;
 
             Console.Write ("Digite a primeira nota: ");
             n1 = double.Parse (Console.ReadLine ());
@@ -19,14 +20,16 @@ namespace exemplo2 {
             Console.WriteLine($"A média foi {media}");
 
             if (media >= 6) {
-                Console.WriteLine ("Aprovado");
+               resultado = "Aprovado";
             } else {
                 if (media >= 4) {
-                    Console.WriteLine ("Recuperação");
+                    resultado = "Recuperação";;
                 } else {
-                    Console.WriteLine ("Reprovado");
+                    resultado = "Reprovado";;
                 }
             }
+
+            Console.WriteLine(resultado);
         }
     }
 }
