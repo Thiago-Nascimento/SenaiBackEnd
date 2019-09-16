@@ -16,6 +16,8 @@ namespace exemplo2 {
 
             media = (n1 + n2 + n3) / 3;
 
+            Console.WriteLine($"A média foi {media}");
+
             if (media >= 6) {
                 Console.WriteLine ("Aprovado");
             } else {
