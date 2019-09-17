@@ -1,0 +1,11 @@
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\Estrutura Condicional\ex8\bin\Debug\netcoreapp2.2\ex8.deps.json
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\Estrutura Condicional\ex8\bin\Debug\netcoreapp2.2\ex8.runtimeconfig.json
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\Estrutura Condicional\ex8\bin\Debug\netcoreapp2.2\ex8.runtimeconfig.dev.json
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\Estrutura Condicional\ex8\bin\Debug\netcoreapp2.2\ex8.dll
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\Estrutura Condicional\ex8\bin\Debug\netcoreapp2.2\ex8.pdb
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\Estrutura Condicional\ex8\obj\Debug\netcoreapp2.2\ex8.csprojAssemblyReference.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\Estrutura Condicional\ex8\obj\Debug\netcoreapp2.2\ex8.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\Estrutura Condicional\ex8\obj\Debug\netcoreapp2.2\ex8.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\Estrutura Condicional\ex8\obj\Debug\netcoreapp2.2\ex8.AssemblyInfo.cs
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\Estrutura Condicional\ex8\obj\Debug\netcoreapp2.2\ex8.dll
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\Estrutura Condicional\ex8\obj\Debug\netcoreapp2.2\ex8.pdb
