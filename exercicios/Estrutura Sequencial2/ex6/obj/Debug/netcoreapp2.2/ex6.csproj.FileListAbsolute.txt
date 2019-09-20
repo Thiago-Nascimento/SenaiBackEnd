@@ -9,3 +9,14 @@ C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\Estrutura Sequencial2\ex6\obj\Debug
 C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\Estrutura Sequencial2\ex6\obj\Debug\netcoreapp2.2\ex6.AssemblyInfo.cs
 C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\Estrutura Sequencial2\ex6\obj\Debug\netcoreapp2.2\ex6.dll
 C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\Estrutura Sequencial2\ex6\obj\Debug\netcoreapp2.2\ex6.pdb
+C:\Users\thiag\Desktop\Atividades Codexp\BackendCSharp\SenaiBackEnd\exercicios\Estrutura Sequencial2\ex6\bin\Debug\netcoreapp2.2\ex6.deps.json
+C:\Users\thiag\Desktop\Atividades Codexp\BackendCSharp\SenaiBackEnd\exercicios\Estrutura Sequencial2\ex6\bin\Debug\netcoreapp2.2\ex6.runtimeconfig.json
+C:\Users\thiag\Desktop\Atividades Codexp\BackendCSharp\SenaiBackEnd\exercicios\Estrutura Sequencial2\ex6\bin\Debug\netcoreapp2.2\ex6.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\Atividades Codexp\BackendCSharp\SenaiBackEnd\exercicios\Estrutura Sequencial2\ex6\bin\Debug\netcoreapp2.2\ex6.dll
+C:\Users\thiag\Desktop\Atividades Codexp\BackendCSharp\SenaiBackEnd\exercicios\Estrutura Sequencial2\ex6\bin\Debug\netcoreapp2.2\ex6.pdb
+C:\Users\thiag\Desktop\Atividades Codexp\BackendCSharp\SenaiBackEnd\exercicios\Estrutura Sequencial2\ex6\obj\Debug\netcoreapp2.2\ex6.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\Atividades Codexp\BackendCSharp\SenaiBackEnd\exercicios\Estrutura Sequencial2\ex6\obj\Debug\netcoreapp2.2\ex6.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Atividades Codexp\BackendCSharp\SenaiBackEnd\exercicios\Estrutura Sequencial2\ex6\obj\Debug\netcoreapp2.2\ex6.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Atividades Codexp\BackendCSharp\SenaiBackEnd\exercicios\Estrutura Sequencial2\ex6\obj\Debug\netcoreapp2.2\ex6.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Atividades Codexp\BackendCSharp\SenaiBackEnd\exercicios\Estrutura Sequencial2\ex6\obj\Debug\netcoreapp2.2\ex6.dll
+C:\Users\thiag\Desktop\Atividades Codexp\BackendCSharp\SenaiBackEnd\exercicios\Estrutura Sequencial2\ex6\obj\Debug\netcoreapp2.2\ex6.pdb

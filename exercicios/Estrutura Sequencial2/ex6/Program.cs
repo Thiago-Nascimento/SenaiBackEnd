@@ -6,30 +6,28 @@ namespace ex6
     {
         static void Main(string[] args)
         {
-            int num1menos = 0;
+            int contNum = 0;
             int num = 0;
-            int cont = 1;
+            int ultimoNumero = 1;
+            int penultimoNumero = 0;
             
             Console.WriteLine("Exercício 6");
+            Console.WriteLine();
 
-            // for(int cont = 1; cont <= 20; cont++) {
-            //     if((num1menos + num) == numSeq) {
-            //         Console.WriteLine(numSeq);
-            //         num1menos = numSeq;
-            //     }
-            //     num1menos = numSeq;
-            //     num
-            // }
+            Console.WriteLine($"Fibonacci: {penultimoNumero}");
+            Console.WriteLine($"Fibonacci: {ultimoNumero}");
 
-            while(cont <= 20) {
-                if(num == num + num1menos) {
-                    Console.WriteLine(num);
-                    num1menos = num;
-                    cont++;
-                }                                
+            while(contNum < 18) {
+                if(num == (ultimoNumero + penultimoNumero)) {
+                    Console.WriteLine($"Fibonacci: {num}");
+
+                    penultimoNumero = ultimoNumero;
+                    ultimoNumero = num;
+                    
+                    contNum++;
+                }
                 num++;
             }
-
         }
     }
 }
