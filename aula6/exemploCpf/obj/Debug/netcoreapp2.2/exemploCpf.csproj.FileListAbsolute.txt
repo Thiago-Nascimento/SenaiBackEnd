@@ -1,0 +1,11 @@
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCpf\bin\Debug\netcoreapp2.2\exemploCpf.deps.json
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCpf\bin\Debug\netcoreapp2.2\exemploCpf.runtimeconfig.json
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCpf\bin\Debug\netcoreapp2.2\exemploCpf.runtimeconfig.dev.json
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCpf\bin\Debug\netcoreapp2.2\exemploCpf.dll
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCpf\bin\Debug\netcoreapp2.2\exemploCpf.pdb
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCpf\obj\Debug\netcoreapp2.2\exemploCpf.csprojAssemblyReference.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCpf\obj\Debug\netcoreapp2.2\exemploCpf.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCpf\obj\Debug\netcoreapp2.2\exemploCpf.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCpf\obj\Debug\netcoreapp2.2\exemploCpf.AssemblyInfo.cs
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCpf\obj\Debug\netcoreapp2.2\exemploCpf.dll
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCpf\obj\Debug\netcoreapp2.2\exemploCpf.pdb

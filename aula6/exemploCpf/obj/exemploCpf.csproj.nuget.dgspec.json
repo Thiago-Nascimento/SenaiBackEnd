@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FIC\\Desktop\\SenaiBackEnd\\aula6\\aula6.csproj": {}
+    "C:\\Users\\FIC\\Desktop\\SenaiBackEnd\\aula6\\exemploCpf\\exemploCpf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FIC\\Desktop\\SenaiBackEnd\\aula6\\aula6.csproj": {
+    "C:\\Users\\FIC\\Desktop\\SenaiBackEnd\\aula6\\exemploCpf\\exemploCpf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIC\\Desktop\\SenaiBackEnd\\aula6\\aula6.csproj",
-        "projectName": "aula6",
-        "projectPath": "C:\\Users\\FIC\\Desktop\\SenaiBackEnd\\aula6\\aula6.csproj",
+        "projectUniqueName": "C:\\Users\\FIC\\Desktop\\SenaiBackEnd\\aula6\\exemploCpf\\exemploCpf.csproj",
+        "projectName": "exemploCpf",
+        "projectPath": "C:\\Users\\FIC\\Desktop\\SenaiBackEnd\\aula6\\exemploCpf\\exemploCpf.csproj",
         "packagesPath": "C:\\Users\\FIC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FIC\\Desktop\\SenaiBackEnd\\aula6\\obj\\",
+        "outputPath": "C:\\Users\\FIC\\Desktop\\SenaiBackEnd\\aula6\\exemploCpf\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
