@@ -1,0 +1,11 @@
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCnpj\bin\Debug\netcoreapp2.2\exemploCnpj.deps.json
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCnpj\bin\Debug\netcoreapp2.2\exemploCnpj.runtimeconfig.json
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCnpj\bin\Debug\netcoreapp2.2\exemploCnpj.runtimeconfig.dev.json
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCnpj\bin\Debug\netcoreapp2.2\exemploCnpj.dll
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCnpj\bin\Debug\netcoreapp2.2\exemploCnpj.pdb
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCnpj\obj\Debug\netcoreapp2.2\exemploCnpj.csprojAssemblyReference.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCnpj\obj\Debug\netcoreapp2.2\exemploCnpj.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCnpj\obj\Debug\netcoreapp2.2\exemploCnpj.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCnpj\obj\Debug\netcoreapp2.2\exemploCnpj.AssemblyInfo.cs
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCnpj\obj\Debug\netcoreapp2.2\exemploCnpj.dll
+C:\Users\FIC\Desktop\SenaiBackEnd\aula6\exemploCnpj\obj\Debug\netcoreapp2.2\exemploCnpj.pdb

@@ -19,22 +19,23 @@ namespace exemploCpf
         static bool ValidaCpf(string cpfUsuario) {
             bool resultado = false;
             int[] v1 = {10, 9, 8, 7, 6, 5, 4, 3, 2};
+            int[] v2 = {11, 10, 9, 8, 7, 6, 5, 4, 3, 2};
             
             string cpfCalculo = "";
             string digitoVerificador1 = "";
-            string digitoVerificador2 = "";
-
-            int[] v2 = {11, 10, 9, 8, 7, 6, 5, 4, 3, 2};
+            string digitoVerificador2 = "";            
             
             int calculo = 0;
             int resto = 0;
 
-            // cpfUsuario = cpfUsuario.Trim('.');
-            // cpfUsuario = cpfUsuario.Trim('-');
+            cpfUsuario = cpfUsuario.Replace(".","");
+            cpfUsuario = cpfUsuario.Replace("-", "");
+            cpfUsuario = cpfUsuario.Replace(" ", "");
+
 
             cpfCalculo = cpfUsuario.Substring(0, 9);
 
-            for(int i = 0; i <= 8; i++) {
+            for(int i = 0; i < 9; i++) {
                 calculo = calculo + (int.Parse(cpfCalculo[i].ToString()) * v1[i]);
             }
 
