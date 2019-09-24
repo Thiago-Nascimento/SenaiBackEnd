@@ -1,0 +1,11 @@
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\passagens\bin\Debug\netcoreapp2.2\passagens.deps.json
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\passagens\bin\Debug\netcoreapp2.2\passagens.runtimeconfig.json
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\passagens\bin\Debug\netcoreapp2.2\passagens.runtimeconfig.dev.json
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\passagens\bin\Debug\netcoreapp2.2\passagens.dll
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\passagens\bin\Debug\netcoreapp2.2\passagens.pdb
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\passagens\obj\Debug\netcoreapp2.2\passagens.csprojAssemblyReference.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\passagens\obj\Debug\netcoreapp2.2\passagens.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\passagens\obj\Debug\netcoreapp2.2\passagens.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\passagens\obj\Debug\netcoreapp2.2\passagens.AssemblyInfo.cs
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\passagens\obj\Debug\netcoreapp2.2\passagens.dll
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\passagens\obj\Debug\netcoreapp2.2\passagens.pdb
