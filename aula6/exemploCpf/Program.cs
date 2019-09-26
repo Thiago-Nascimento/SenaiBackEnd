@@ -32,7 +32,6 @@ namespace exemploCpf
             cpfUsuario = cpfUsuario.Replace("-", "");
             cpfUsuario = cpfUsuario.Replace(" ", "");
 
-
             cpfCalculo = cpfUsuario.Substring(0, 9);
 
             for(int i = 0; i < 9; i++) {
