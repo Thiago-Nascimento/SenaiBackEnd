@@ -25,23 +25,6 @@ namespace exemploPoo.Models
 
         /// <summary>
         /// Escreve na tela "Estou estudando!"
-        /// </summary>
-        public void Estudar() {
-            System.Console.WriteLine("Estou estudando!");
-        }
-
-        /// <summary>
-        /// Escreve na tela "Tá na hora do café?"
-        /// </summary>
-        public void PedirIntervalo() {
-            System.Console.WriteLine("Tá na hora do café?");
-        }
-
-        /// <summary>
-        /// Escreve na tela "Ajuda ae Professor!"
-        /// </summary>
-        public void PedirAjuda() {
-            System.Console.WriteLine("Ajuda ae Professor!");
-        }
+        /// </summary>        
     }
 }

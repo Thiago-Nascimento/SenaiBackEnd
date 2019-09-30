@@ -1,5 +1,4 @@
-﻿using System;
-using exemploPoo.Models;
+﻿using exemploPoo.Controllers;
 
 namespace exemploPoo
 {
@@ -7,13 +6,10 @@ namespace exemploPoo
     {
         static void Main(string[] args)
         {
-            AlunoModel aluno = new AlunoModel();
+            AlunoController aluno1 = new AlunoController();
 
-            System.Console.Write("Digite o nome do aluno: ");
-            aluno.Nome =  Console.ReadLine();
-            
-            
-            Console.WriteLine("Hello World!");
+            aluno1.CadastrarAluno();
+            aluno1.ExibirAluno();
         }
     }
 }

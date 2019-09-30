@@ -11,7 +11,7 @@ namespace ex2
         }
 
         static void MostraDiaDaSemana() {
-            DateTime diaSemana = DateTime.Today.Day;                        
+            DateTime diaSemana = DateTime.Today;                        
             Console.WriteLine(diaSemana.DayOfWeek);
         }
     }

@@ -1,0 +1,11 @@
+C:\Users\FIC\Desktop\SenaiBackEnd\aula9\exemploProdutoFornecedor\bin\Debug\netcoreapp2.2\exemploProdutoFornecedor.deps.json
+C:\Users\FIC\Desktop\SenaiBackEnd\aula9\exemploProdutoFornecedor\bin\Debug\netcoreapp2.2\exemploProdutoFornecedor.runtimeconfig.json
+C:\Users\FIC\Desktop\SenaiBackEnd\aula9\exemploProdutoFornecedor\bin\Debug\netcoreapp2.2\exemploProdutoFornecedor.runtimeconfig.dev.json
+C:\Users\FIC\Desktop\SenaiBackEnd\aula9\exemploProdutoFornecedor\bin\Debug\netcoreapp2.2\exemploProdutoFornecedor.dll
+C:\Users\FIC\Desktop\SenaiBackEnd\aula9\exemploProdutoFornecedor\bin\Debug\netcoreapp2.2\exemploProdutoFornecedor.pdb
+C:\Users\FIC\Desktop\SenaiBackEnd\aula9\exemploProdutoFornecedor\obj\Debug\netcoreapp2.2\exemploProdutoFornecedor.csprojAssemblyReference.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\aula9\exemploProdutoFornecedor\obj\Debug\netcoreapp2.2\exemploProdutoFornecedor.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\aula9\exemploProdutoFornecedor\obj\Debug\netcoreapp2.2\exemploProdutoFornecedor.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\aula9\exemploProdutoFornecedor\obj\Debug\netcoreapp2.2\exemploProdutoFornecedor.AssemblyInfo.cs
+C:\Users\FIC\Desktop\SenaiBackEnd\aula9\exemploProdutoFornecedor\obj\Debug\netcoreapp2.2\exemploProdutoFornecedor.dll
+C:\Users\FIC\Desktop\SenaiBackEnd\aula9\exemploProdutoFornecedor\obj\Debug\netcoreapp2.2\exemploProdutoFornecedor.pdb

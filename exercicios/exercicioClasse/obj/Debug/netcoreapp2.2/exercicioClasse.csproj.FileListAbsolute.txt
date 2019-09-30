@@ -1,0 +1,11 @@
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\exercicioClasse\bin\Debug\netcoreapp2.2\exercicioClasse.deps.json
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\exercicioClasse\bin\Debug\netcoreapp2.2\exercicioClasse.runtimeconfig.json
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\exercicioClasse\bin\Debug\netcoreapp2.2\exercicioClasse.runtimeconfig.dev.json
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\exercicioClasse\bin\Debug\netcoreapp2.2\exercicioClasse.dll
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\exercicioClasse\bin\Debug\netcoreapp2.2\exercicioClasse.pdb
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\exercicioClasse\obj\Debug\netcoreapp2.2\exercicioClasse.csprojAssemblyReference.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\exercicioClasse\obj\Debug\netcoreapp2.2\exercicioClasse.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\exercicioClasse\obj\Debug\netcoreapp2.2\exercicioClasse.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\exercicioClasse\obj\Debug\netcoreapp2.2\exercicioClasse.AssemblyInfo.cs
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\exercicioClasse\obj\Debug\netcoreapp2.2\exercicioClasse.dll
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicios\exercicioClasse\obj\Debug\netcoreapp2.2\exercicioClasse.pdb
