@@ -7,10 +7,10 @@ namespace aula1
         static void Main(string[] args)
         {
             // Somente declaração
-            int numero1;
+            // int numero1;
 
             // Declaração e atribuição de valor
-            int numero2 = 5;
+            // int numero2 = 5;
 
             // Declaração de varias variaveis
             int numero3, numero4, numero5;
@@ -18,7 +18,7 @@ namespace aula1
             float media;
 
             // Tipo booleano
-            bool resultado = false;
+            // bool resultado = false;
 
             string nomeAluno;
 
