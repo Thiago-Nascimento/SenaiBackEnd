@@ -1,0 +1,11 @@
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicioVingadores\bin\Debug\netcoreapp2.2\exercicioVingadores.deps.json
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicioVingadores\bin\Debug\netcoreapp2.2\exercicioVingadores.runtimeconfig.json
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicioVingadores\bin\Debug\netcoreapp2.2\exercicioVingadores.runtimeconfig.dev.json
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicioVingadores\bin\Debug\netcoreapp2.2\exercicioVingadores.dll
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicioVingadores\bin\Debug\netcoreapp2.2\exercicioVingadores.pdb
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicioVingadores\obj\Debug\netcoreapp2.2\exercicioVingadores.csprojAssemblyReference.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicioVingadores\obj\Debug\netcoreapp2.2\exercicioVingadores.csproj.CoreCompileInputs.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicioVingadores\obj\Debug\netcoreapp2.2\exercicioVingadores.AssemblyInfoInputs.cache
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicioVingadores\obj\Debug\netcoreapp2.2\exercicioVingadores.AssemblyInfo.cs
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicioVingadores\obj\Debug\netcoreapp2.2\exercicioVingadores.dll
+C:\Users\FIC\Desktop\SenaiBackEnd\exercicioVingadores\obj\Debug\netcoreapp2.2\exercicioVingadores.pdb

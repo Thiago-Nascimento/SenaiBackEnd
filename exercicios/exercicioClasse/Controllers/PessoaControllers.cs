@@ -42,6 +42,8 @@ namespace exercicioClasse.Controllers
                 pessoa.Classificacao = "Obesidade Grau I";
             } else if (pessoa.Imc < 39) {
                 pessoa.Classificacao = "Obesidade Grau II";
+            } else if (pessoa.Imc == 45) {
+                pessoa.Classificacao = "Obesidade Grau II";
             } else {
                 pessoa.Classificacao = "Obesidade Grau III";
             }
