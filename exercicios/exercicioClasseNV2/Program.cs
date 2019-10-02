@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using exercicioClasseNV2.Controllers;
 
 namespace exercicioClasseNV2
@@ -8,15 +9,23 @@ namespace exercicioClasseNV2
         static void Main(string[] args)
         {
             AlunoControllers aluno1 = new AlunoControllers();
+            AlunoControllers alunoConstrutor = new AlunoControllers("thiago", "CodeXP", 21, "34876592-8", true);
             CelularControllers celular1 = new CelularControllers();
             ProdutoControllers produto1 = new ProdutoControllers();
             CalculadoraControllers calculadora1 = new CalculadoraControllers();
             CalculadoraCientificaControllers calculadora2 = new CalculadoraCientificaControllers();
+            PedidoControllers pedido1 = new PedidoControllers();
                 
             #region Aluno
                 aluno1.CadastraAluno();
                 Console.WriteLine();
                 aluno1.MostraAluno();
+                Console.WriteLine();
+            #endregion
+
+            #region AlunoConstrutor
+                Console.WriteLine("Aluno Construtor...");
+                alunoConstrutor.MostraAluno();
             #endregion
 
             Console.WriteLine("\r\n__________________________________________\r\n");
@@ -45,6 +54,10 @@ namespace exercicioClasseNV2
                 produto1.ReservarProduto();  
             #endregion
 
+            #region ProdutoLista
+                
+            #endregion
+
             Console.WriteLine("\r\n__________________________________________\r\n");
 
             #region Calculadora                
@@ -63,7 +76,7 @@ namespace exercicioClasseNV2
             Console.WriteLine("\r\n__________________________________________\r\n");
 
             #region Pizzaria
-                
+                pedido1.LerPedido();
             #endregion
         }
     }

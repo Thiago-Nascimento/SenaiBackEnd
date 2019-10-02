@@ -6,6 +6,18 @@ namespace exercicioClasseNV2.Controllers
     public class AlunoControllers
     {
         AlunoModel aluno = new AlunoModel();
+        
+        public AlunoControllers(){
+            
+        }
+        
+        public AlunoControllers(string nome, string curso, int idade, string rg, bool bolsista) {
+            aluno.Nome = nome;
+            aluno.Curso = curso;
+            aluno.Idade = idade;
+            aluno.RG = rg;
+            aluno.Bolsista = bolsista;
+        }
 
         public void CadastraAluno() {            
             string resposta = "";            
@@ -30,7 +42,6 @@ namespace exercicioClasseNV2.Controllers
                 } else {
                     aluno.Bolsista = false;
                 }
-
             }
             catch (Exception)
             {

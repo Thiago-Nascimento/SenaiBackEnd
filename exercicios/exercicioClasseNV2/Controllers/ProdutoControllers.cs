@@ -1,11 +1,42 @@
 using System;
+using System.Collections.Generic;
 using exercicioClasseNV2.Models;
 
 namespace exercicioClasseNV2.Controllers
 {
     public class ProdutoControllers
     {
-        ProdutoModel produto = new ProdutoModel();
+        ProdutoModel produto = new ProdutoModel();       
+
+        public void CadastraProdutos() {
+            int id;
+            string nome;
+            double preco;
+
+            Console.WriteLine("Cadastro de Produto\n");
+
+            List<ProdutoModel> produtos = new List<ProdutoModel>();
+
+            Console.WriteLine("Digite o Id do produto: ");
+            id = int.Parse(Console.ReadLine());
+            Console.WriteLine("Digite o Nome do produto: ");
+            nome = Console.ReadLine();
+            Console.WriteLine("Digite o Preço do produto: ");
+            preco = double.Parse(Console.ReadLine());            
+
+            produtos.Add(new ProdutoModel(1, "Bolacha", 1.25));
+            produtos.Add(new ProdutoModel(2, "Biscoito", 1.25));
+            produtos.Add(new ProdutoModel(3, "Galleta", 1.25));
+            produtos.Add(new ProdutoModel(4, "Biscuit", 1.25));
+            produtos.Add(new ProdutoModel(5, "Biscotto", 1.25));
+
+            foreach (ProdutoModel p in produtos)
+            {
+                Console.WriteLine(p.Id);
+                Console.WriteLine(p.Nome);
+                Console.WriteLine(p.Preco);
+            }
+        }
         
         public void CadastraProduto() {
             try {
